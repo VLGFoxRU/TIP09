@@ -56,15 +56,19 @@ pz9-auth/
 
 Успешная регистрация:
 
+<img width="1375" height="676" alt="image" src="https://github.com/user-attachments/assets/a44cc2a8-5119-405a-a018-146b9831ad0f" />
 
 Повторная попытка:
 
+<img width="1371" height="579" alt="image" src="https://github.com/user-attachments/assets/fc17dd8c-8cc8-435c-aac7-bd95d1668068" />
 
 Вход с верными данными:
 
+<img width="1370" height="700" alt="image" src="https://github.com/user-attachments/assets/a3e7bcca-8bbc-4935-b636-4cf842ba139e" />
 
 Вход с неверными данными:
 
+<img width="1378" height="584" alt="image" src="https://github.com/user-attachments/assets/4e88f895-3426-47fb-ac1f-51db6485d565" />
 
 # Фрагменты кода
 
